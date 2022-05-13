@@ -1,0 +1,11 @@
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.deps.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.dll
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.pdb
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.dll
+C:\Users\Geovane\Desktop\algorithmic-toolbox\GreatestCommonDivisor\GreatestCommonDivisor\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.pdb

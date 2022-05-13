@@ -1,0 +1,11 @@
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.deps.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.runtimeconfig.dev.json
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\bin\Debug\netcoreapp2.1\Fibonacci.pdb
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.csprojAssemblyReference.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.AssemblyInfo.cs
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.dll
+C:\Users\Geovane\Desktop\algorithmic-toolbox\Fibonacci\Fibonacci\Fibonacci\obj\Debug\netcoreapp2.1\Fibonacci.pdb
